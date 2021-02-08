@@ -1,1 +1,1 @@
-# practice
+Simple practices for Python
